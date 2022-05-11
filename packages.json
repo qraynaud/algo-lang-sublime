@@ -4,9 +4,9 @@
   "packages": [
     {
       "name": "AlgoLang",
-      "details": "https://bitbucket.org/lsystems/algo-lang-sublime",
+      "details": "https://heptapod.lsystems.fr/fa/algo-lang-sublime",
       "labels": ["language syntax"],
-      "issues": "https://bitbucket.org/lsystems/algo-lang-sublime/issues?status=new&status=open",
+      "issues": "https://heptapod.lsystems.fr/fa/algo-lang-sublime/-/issues",
       "releases": [
         {
           "sublime_text": ">=3092",
