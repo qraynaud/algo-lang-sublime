@@ -4,7 +4,7 @@
   "packages": [
     {
       "name": "AlgoLang",
-      "details": "https://heptapod.lsystems.fr/fa/algo-lang-sublime",
+      "details": "https://github.com/qraynaud/algo-lang-sublime",
       "labels": ["language syntax"],
       "issues": "https://heptapod.lsystems.fr/fa/algo-lang-sublime/-/issues",
       "releases": [
